@@ -7,7 +7,6 @@ selenium
 requests
 pyodbc
 PyMySQL
-jira==3.0a2
 black
 sqlalchemy
 pyotp
