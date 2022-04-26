@@ -1,0 +1,13 @@
+pytest
+pytest-ordering
+pytest-dependency
+python-dateutil
+pytest-instafail
+selenium
+requests
+pyodbc
+PyMySQL
+jira==3.0a2
+black
+sqlalchemy
+pyotp
