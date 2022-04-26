@@ -1,3 +1,5 @@
+language: python
+os: linux
 cache:
   directories:
     - $HOME/.pip-cache/
