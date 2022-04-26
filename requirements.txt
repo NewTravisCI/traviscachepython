@@ -7,6 +7,4 @@ selenium
 requests
 pyodbc
 PyMySQL
-black
 sqlalchemy
-pyotp
